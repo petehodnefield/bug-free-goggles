@@ -65,5 +65,5 @@ Regex: `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 
 ## Author
 
-Pete Hodnefield is a full-stack web developer based out of Minneapolis, Minnesota.
+Pete Hodnefield is a full-stack web developer student based out of Minneapolis, Minnesota.
 [Pete's GitHub](https://github.com/petehodnefield)
