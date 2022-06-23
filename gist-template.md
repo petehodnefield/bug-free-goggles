@@ -1,4 +1,4 @@
-# Match.Email
+# It's Just Email
 
 Data validation is crucial when it comes to user input. It is essential that when prompted to enter an email address, the user must enter information that follows an email's formatting. Developers can use regular expression, or regex, to set rules that the data must follow.
 
